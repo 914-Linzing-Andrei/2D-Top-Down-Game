@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3768034030855807524
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 961647345457589629, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 961647345457589629, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.433754
+      objectReference: {fileID: 0}
+    - target: {fileID: 961647345457589629, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.9004074
+      objectReference: {fileID: 0}
+    - target: {fileID: 961647345457589629, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -164.54262
+      objectReference: {fileID: 0}
+    - target: {fileID: 961647345457589629, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 961647345457589629, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 961647345457589629, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 961647345457589629, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 961647345457589629, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 961647345457589629, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 961647345457589629, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3881045807408959949, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351832702753189763, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_Name
+      value: Shotgun Bullet (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6789835606532342818, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9038904147496537093, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 55f9357df39208e4aa5c3b7650b7d91d, type: 3}
